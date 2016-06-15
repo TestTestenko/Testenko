@@ -1,0 +1,10 @@
+/bin/
+/target/
+/.idea
+/java/ProjectTest/ProjectTest.iml
+/.settings
+/temp/
+/test-output/
+/src/core/core.iml
+/ProjectTest.iml
+/src/core/config/ConfigLoader.java
